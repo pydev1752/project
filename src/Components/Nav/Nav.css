@@ -1,0 +1,14 @@
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 37%;
+  	border: 1px solid #ddd;
+  	border-radius: 4px;
+  	padding: 5px;
+}
+
